@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<almacen>
+    <productos>
+        <producto id="1">
+            <nombre>Tornillo</nombre>
+            <descripcion>De acero</descripcion>
+            <stock>257</stock>
+            <precio>0.5</precio>
+        </producto>
+        <producto id="2">
+            <nombre>Sierra</nombre>
+            <descripcion>Para madera</descripcion>
+            <stock>15</stock>
+            <precio>15.9</precio>
+        </producto>
+        <producto id="3">
+            <nombre>Martillo</nombre>
+            <descripcion>Para clavos</descripcion>
+            <stock>34</stock>
+            <precio>5.5</precio>
+        </producto>
+    </productos>
+    <ciudad>Córdoba</ciudad>
+    <nombre>Ferreteria del Sur</nombre>
+</almacen>
