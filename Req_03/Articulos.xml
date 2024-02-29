@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tienda>
+    <articulos>
+        <articulo>
+            <id>A001</id>
+            <nombre>Camisa de algodón</nombre>
+            <descripcion>Camisa de manga larga de algodón suave y cómoda.</descripcion>
+            <stock>50</stock>
+            <precio>29.99</precio>
+        </articulo>
+        <articulo>
+            <id>A002</id>
+            <nombre>Pantalones vaqueros</nombre>
+            <descripcion>Pantalones vaqueros ajustados de mezclilla resistente.</descripcion>
+            <stock>30</stock>
+            <precio>39.99</precio>
+        </articulo>
+        <articulo>
+            <id>A003</id>
+            <nombre>Zapatillas deportivas</nombre>
+            <descripcion>Zapatillas deportivas ligeras y transpirables con suela de goma antideslizante.</descripcion>
+            <stock>20</stock>
+            <precio>49.99</precio>
+        </articulo>
+        <articulo>
+            <id>A004</id>
+            <nombre>Reloj de pulsera</nombre>
+            <descripcion>Reloj de pulsera analógico con correa de cuero y carcasa de acero inoxidable.</descripcion>
+            <stock>15</stock>
+            <precio>99.99</precio>
+        </articulo>
+        <articulo>
+            <id>A005</id>
+            <nombre>Mochila escolar</nombre>
+            <descripcion>Mochila escolar resistente al agua con múltiples compartimentos y correas acolchadas.</descripcion>
+            <stock>40</stock>
+            <precio>34.99</precio>
+        </articulo>
+    </articulos>
+</tienda>
